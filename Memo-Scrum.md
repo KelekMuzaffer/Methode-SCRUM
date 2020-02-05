@@ -1,4 +1,4 @@
-#Memo sur la méthode SCRUM
+ # Memo sur la méthode SCRUM
 
 - Les méthodes agiles partent du principe que spécifier et planifier dans les détails l'intégralité d'un produit avant de le développer (approche prédictive) est contre productif.
 
