@@ -1,20 +1,45 @@
- # Memo sur la méthode SCRUM
+ ## Memo sur la méthode SCRUM
 
 - Les méthodes agiles partent du principe que spécifier et planifier dans les détails l'intégralité d'un produit avant de le développer (approche prédictive) est contre productif.
 
-- Scrum :​
+- Glossaire de la méthode Scrum :​
   
-  - Scrum commence avec le “Product Owner”. Il représente les intérêts du client et à ce titre, il a l’autorité pour définir les fonctionnalités du produit final.
-  Il est responsable du “Backlog”, une liste des tâches et des spécificités du produit (le cahier des charges). Un point fondamental: le backlog DOIT être priorisé. C’est la responsabilité du “Product Owner”.
-  Si j’utilisais Scrum pour créer une voiture, une de mes tâches prioritaires serait “Doit avoir un moteur”, parce que la voiture ne peut pas fonctionner sans. “Doit être peinte en rouge” serait une tâche moins prioritaire; même si c’est important, ce n’est pas nécessaire pour que la voiture roule.
+  - Le Product Owner : il représente les intérêts du client et à ce titre, il a l’autorité pour définir les fonctionnalités du produit final.
+
+  - Il est responsable du “Backlog”, une liste des tâches et des spécificités du produit (le cahier des charges), il DOIT être priorisé. C’est la responsabilité du “Product Owner”.
+
+
+  -  Exemple :  Si j’utilisais Scrum pour créer une voiture, une de mes tâches prioritaires serait “Doit avoir un moteur”, parce que la voiture ne peut pas fonctionner sans. “Doit être peinte en rouge” serait une tâche moins prioritaire; même si c’est important, ce n’est pas nécessaire pour que la voiture roule.
+
+  - Le Scrum Master aide l’équipe à avancer en suivant les principes de Scrum et la méthodologie Agile.
   
   - Ensuite, il y a le Sprint. Dans la méthode agile de gestion de projet, Scrum utilise des sprints comme intervalles de temps pendant lesquels l’équipe va compléter un certain nombre de tâches du backlog. L’intervalle de temps dépend des besoins de l’équipe, mais deux semaines est une durée communément utilisée.
-  - Les équipes se rencontrent tous les jours pour le “Daily Scrum”, une réunion quotidienne où chacun fait part aux autres de son avancement. On appelle également ces réunions des “Daily Stand-Ups”.
+
+  - Le Daily Scrum, une réunion quotidienne où chacun fait part aux autres de son avancement. On appelle également ces réunions des “Daily Stand-Ups”.
+
   - Chaque sprint se termine avec une Rétrospective, qui réunit toute l’équipe afin de partager les retours d’expérience et discuter des améliorations possibles du prochain sprint.
-  
-  
+
+  - Rétrospective du travail: Echange des problèmes, de l'organisations, des moyens utiliser en équipe à la fin du sprint dans le but d'améliorer le prochain sprint.
+
+  - Rétrospective du processus: la réunion de rétrospective va permettre de revoir le processus de gestion de projet Scrum afin de détecter des leviers possibles d’optimisation, pour gagner en efficience lors du prochain sprint.
+
+
+  - Une User Story (“récit utilisateur” en français) est la description fonctionnelle utilisée dans les méthodes agiles pour spécifier le développement d'une fonctionnalité, en exprimant à qui elle s'adresse et en quoi elle apporte de la valeur
+
+  - Planning Poker : Une estimation de temps en equipe des fonctionnalités.
+
+  - Release
+  Une release correspond à la livraison d'une version. Par habitude, on parle de release pour considérer la période de temps qui va du début du travail sur cette version jusqu'à sa livraison et qui passe par une série de sprints successifs. En français on garde release.
+
+  - Sprint : à partir du backlog, choisissez les tâches qui doivent être complétées lors du premier sprint. Les sprints sont limités dans le temps.
+
+  - Sprint review : L'equipe présentes une version du produit avec les tâches réalisées au client s'il ne vient pas c'est le product owner qui le represente.
+    
+  - Valeur métier : le Product Owner représente l'importance d'une fonctionnalité en lui affectant une valeur entre 0 et 100.
+
+  - Vélocité : C'est la capacité d'une equipe à effectuer des tâches pendant un sprint par exemple.
    
-  # L'approche de la méthode Scrum :
+## L'approche de la méthode Scrum :
    
 - Distribuez les rôles: vous avez besoin d’un Product Owner (qui représente l’utilisateur final et ses intérêts afin de spécifier les besoins du produit), d’un Scrum Master (qui aide l’équipe à avancer en suivant les principes de Scrum et la méthodologie Agile), et d’une équipe. Rappelez-vous, chacun doit laisser de côté son égo. Scrum fonctionne suivant un modèle de “Leader au service des autres”.
 
@@ -30,7 +55,9 @@
 
 - On prend les mêmes et on recommence! Votre premier sprint s’est déroulé sans accrocs? Choisissez de nouvelles tâches depuis le backlog et commencez un nouveau sprint.
 
-# Management visuel des tâches avec un tableau :
+
+
+## Management visuel des tâches avec un tableau :
  
 - Utiliser un tableau visible de tous pour voir les avancées pour voir les taches en cours de chacun, son état d’avancement, et l’objectif actuel de l’équipe.
   
